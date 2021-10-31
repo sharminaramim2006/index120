@@ -1,0 +1,65 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.navbar-brand{
+width: 50%;
+margin-left: 4rem;
+font-size: 30px;
+color: #1C5C93;
+}
+.nav-item {
+    margin-left:1rem;
+    font-size: 22px;
+}
+ 
+.carousel-caption{
+    color: #428BCA;
+    text-align: justify;
+    margin-bottom: 11rem;
+ 
+ 
+}
+.carousel-caption h5{
+    font-size: 35px;
+    font-weight: bold;
+    margin-bottom: 1rem;
+}
+.carousel-caption p{
+    font-size: 22px;
+    font-weight: bold;
+    margin-bottom: 1.5rem;
+    margin-right: 18rem;
+    line-height: 2rem;
+}
+.carousel-caption button{
+    border: 1px solid #428BCA;
+    background-color: #428BCA;
+    height: 2.8rem;
+    width: 10rem;
+    color: white;
+}
+.carousel-caption button:hover{
+    color: white;
+    background-color: #41a2f7;
+}
+
+.services{
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+  
+}
+.col-lg-4{
+    height: 15rem;
+  
+    border-bottom: 1px solid #99cfff;
+    border-right: 1px solid #99cfff;
+}
+.col-lg-4 h3{
+    color: #41a2f7;
+}
+.col-lg-4 h2{
+    margin-bottom: 0.8rem;
+    margin-top: 0.8rem;
+}
